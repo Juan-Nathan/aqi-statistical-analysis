@@ -18,10 +18,10 @@ It is framed around two hypothetical organizations:
 - **Environment**: Jupyter Notebook
 - **Libraries**: `pandas`, `numpy`, `seaborn`, `scipy`
 
-### Methods Applied
+## Methods Applied
 
 - **Confidence Intervals (CI):**  
-  - 95% confidence intervals for mean AQI by state to assess against policy threshold
+  - 95% confidence intervals for average AQI by state to assess against policy threshold
 
 - **Hypothesis Testing (HT):**  
   - One-sample t-tests (state mean AQI vs. policy threshold)  
