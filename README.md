@@ -7,16 +7,19 @@ It is framed around two hypothetical organizations:
 - **Repair Our Air (ROA):** Uses **hypothesis testing** to guide environmental policy decisions, such as focusing on metropolitan areas or choosing locations for new regional offices.  
 
 ## Dataset
+
 - `c4_epa_air_quality.csv`
 - **Source:** Environmental Protection Agency (EPA) Air Quality Index data
 - **Contents:** AQI measurements from 260 monitoring sites across 52 states/territories over time
 
 ## Technologies Used
+
 - **Language**: Python
 - **Environment**: Jupyter Notebook
 - **Libraries**: `pandas`, `numpy`, `seaborn`, `scipy`
 
-### Methods Applied  
+### Methods Applied
+
 - **Confidence Intervals (CI):**  
   - 95% confidence intervals for mean AQI by state to assess against policy threshold
 
