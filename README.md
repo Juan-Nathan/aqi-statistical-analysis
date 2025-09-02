@@ -19,10 +19,10 @@ This project analyzes U.S. Air Quality Index (AQI) data using statistical method
 
 ## Methods Applied
 
-- **Confidence Intervals (CI):** 
+- **Confidence Intervals**:
   - 95% confidence intervals for average AQI by state to assess against policy threshold
 
-- **Hypothesis Testing (HT):**
+- **Hypothesis Testing**:
   - One-sample t-tests (state mean AQI vs. policy threshold)  
   - Two-sample independent t-tests (comparisons between states/counties)
  
