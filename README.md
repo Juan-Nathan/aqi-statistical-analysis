@@ -21,11 +21,11 @@ It is framed around two hypothetical organizations:
 ## Methods Applied
 
 - **Confidence Intervals (CI):**  
-  - 95% confidence intervals for average AQI by state to assess against policy threshold
+  95% confidence intervals for average AQI by state to assess against policy threshold
 
 - **Hypothesis Testing (HT):**  
-  - One-sample t-tests (state mean AQI vs. policy threshold)  
-  - Two-sample independent t-tests (comparisons between states/counties)
+  One-sample t-tests (state mean AQI vs. policy threshold)  
+  Two-sample independent t-tests (comparisons between states/counties)
  
 ## How to Run
 
