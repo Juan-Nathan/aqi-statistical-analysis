@@ -22,7 +22,6 @@ This project analyzes U.S. Air Quality Index (AQI) data from the Environmental P
 
 - **Confidence Intervals**:
   - 95% confidence intervals for average AQI by state to assess against policy threshold
-
 - **Hypothesis Testing**:
   - One-sample t-tests (state mean AQI vs. policy threshold)  
   - Two-sample independent t-tests (comparisons between states/counties)
