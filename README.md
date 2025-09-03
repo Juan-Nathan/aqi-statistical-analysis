@@ -7,8 +7,8 @@ This project analyzes U.S. Air Quality Index (AQI) data using statistical method
 
 ## Dataset
 
-- `c4_epa_air_quality.csv`
-- **Source:** Environmental Protection Agency (EPA) Air Quality Index data
+- `epa_air_quality.csv`
+- **Source:** Environmental Protection Agency (EPA)
 - **Contents:** AQI measurements from 260 monitoring sites across 52 states/territories over time
 
 ## Technologies Used
