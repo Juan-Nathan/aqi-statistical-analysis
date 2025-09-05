@@ -10,7 +10,7 @@ This project analyzes U.S. Air Quality Index (AQI) data collected by the Environ
 - `epa_air_quality.csv`
 - **Source**: EPA
 - **Observations**: 260
-- **Contents**: AQI measurements collected from monitoring sites across 52 states/territories over time
+- **Contents**: AQI measurements collected from monitoring sites across 52 states/territories
 
 ## Technologies Used
 
