@@ -1,4 +1,4 @@
-# 🏭 Statistical Analysis of USA Air Quality Index  
+# 🏭 Statistical Analysis of USA Air Quality Index Data
 
 This project analyzes U.S. Air Quality Index (AQI) data collected by the Environmental Protection Agency (EPA) using **inferential statistical methods** in Python to support data-driven decision-making. It is framed around two hypothetical organizations:  
 
