@@ -1,6 +1,6 @@
 # 🏭 Statistical Analysis of USA Air Quality Index Data
 
-This project analyzes U.S. Air Quality Index (AQI) data collected by the Environmental Protection Agency (EPA) using **inferential statistical methods** in Python to support data-driven decision-making. It is framed around two hypothetical organizations:  
+This project analyzes U.S. Air Quality Index (AQI) data collected by the Environmental Protection Agency (EPA) using **inferential statistical methods** in Python to support data-driven decision-making. It is framed around two hypothetical organizations:
 
 - **Ripple Renewable Energy**: Uses **confidence intervals** to determine which states might qualify for renewable energy subsidies under a new federal policy.  
 - **Repair Our Air**: Uses **hypothesis testing** to guide environmental policy decisions, such as focusing on metropolitan areas or choosing locations for new regional offices.  
